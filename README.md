@@ -16,7 +16,7 @@
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-<img align="right" height="350" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="300" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 > 🌏 Just an NPC from earth 616
  > 
@@ -35,16 +35,16 @@
 #
 
 <div class="flex">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHIzbmR1cm5vdWJrdnF4cTgxOTM2bmltcDByc29uNWtxbzVkbXEwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PlZ0lAppucv6TiIqF6/giphy.gif" height="100px">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhnN2d1ZGljMjBwc25qd3Zkc2x0b2hwbzF3NWVsdnE4bDBoejh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7SI4TglY5NfdBLqVwX/giphy.gif" height="100px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHIzbmR1cm5vdWJrdnF4cTgxOTM2bmltcDByc29uNWtxbzVkbXEwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PlZ0lAppucv6TiIqF6/giphy.gif" height="90px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhnN2d1ZGljMjBwc25qd3Zkc2x0b2hwbzF3NWVsdnE4bDBoejh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7SI4TglY5NfdBLqVwX/giphy.gif" height="90px">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZuaHFxbXQ1bjZnbmdyd2d4a3N0bDNqc3JyZDZrdzVmNmxwdHJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5aqaI5R4fE7rBtbBQ5/giphy.gif" height="80px">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdnZjhyc2VheXl3b2prbjA0aHRyemtkZjNmMHhkMHBteW5oODI4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qOP3wCSClTJJvn4wfj/giphy.gif" height="80px">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHE2dWRubDR2d3V4Zmo0bmRnM3RkM2Vhdmlxc2xycGx5NW9iNzY1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/51tgPmBdr2n4drnOiF/giphy.gif" height="80px">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVidjllcnoxMTc3NGZrdW13a2Fka3Y1emVoNXBvZWpkMWZhNW1yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZkjVzM6XRRfMyHnetp/giphy.gif" height="100px">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRsNHo2OWd1cjhhbDhvOTA3cW0zb2VveXQ3bHBvaXE4dDkzZmxmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eh4ZD1ZLsdmjYqJ8rF/giphy.gif" height="100px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVidjllcnoxMTc3NGZrdW13a2Fka3Y1emVoNXBvZWpkMWZhNW1yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZkjVzM6XRRfMyHnetp/giphy.gif" height="90px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRsNHo2OWd1cjhhbDhvOTA3cW0zb2VveXQ3bHBvaXE4dDkzZmxmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eh4ZD1ZLsdmjYqJ8rF/giphy.gif" height="90px">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVzY2s0NXdoMXdwZGVnb2t0cWgycHBwMGxhOGFobXdoeHl3cTJ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6yasKfkB0mG3QTQyfP/giphy.gif" height="80px">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhmbTNxMGlqM2F1dDNpZ2Nkczc2am53ejZibGRqOXUxYjRqbHhjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IGDlObXPXO5gHwVf18/giphy.gif" height="100px">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q4cHpkZDBkZWtlc3RsMXRhYW8yZ3h4em90Nmk0MWkyandpNzNidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8csxbutSQcS0g0fp8I/giphy.gif" height="100px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhmbTNxMGlqM2F1dDNpZ2Nkczc2am53ejZibGRqOXUxYjRqbHhjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IGDlObXPXO5gHwVf18/giphy.gif" height="90px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q4cHpkZDBkZWtlc3RsMXRhYW8yZ3h4em90Nmk0MWkyandpNzNidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8csxbutSQcS0g0fp8I/giphy.gif" height="90px">
 </div>
 
 <div align="center">
