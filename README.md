@@ -24,6 +24,8 @@
  > 
 > ⚡ Fun fact : Glasses Girl is the best!
 
+#
+
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -34,7 +36,7 @@
 
 #
 
-<div class="flex" style="align: center;">
+<center class="flex">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHIzbmR1cm5vdWJrdnF4cTgxOTM2bmltcDByc29uNWtxbzVkbXEwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PlZ0lAppucv6TiIqF6/giphy.gif" height="80px">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhnN2d1ZGljMjBwc25qd3Zkc2x0b2hwbzF3NWVsdnE4bDBoejh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7SI4TglY5NfdBLqVwX/giphy.gif" height="80px">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZuaHFxbXQ1bjZnbmdyd2d4a3N0bDNqc3JyZDZrdzVmNmxwdHJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5aqaI5R4fE7rBtbBQ5/giphy.gif" height="75px">
@@ -45,7 +47,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVzY2s0NXdoMXdwZGVnb2t0cWgycHBwMGxhOGFobXdoeHl3cTJ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6yasKfkB0mG3QTQyfP/giphy.gif" height="75px">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhmbTNxMGlqM2F1dDNpZ2Nkczc2am53ejZibGRqOXUxYjRqbHhjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IGDlObXPXO5gHwVf18/giphy.gif" height="80px">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q4cHpkZDBkZWtlc3RsMXRhYW8yZ3h4em90Nmk0MWkyandpNzNidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8csxbutSQcS0g0fp8I/giphy.gif" height="80px">
-</div>
+</center>
 
 <div align="center">
     <h3> Connect with me on </h3>
