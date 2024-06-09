@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=40&lines=Muhammad+Rafly+Maulidan;Seorang+Mahasiswa+Informatika;Si+Wibu+ambivert;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=20&center=true&vCenter=true&width=600&height=50&lines=Muhammad+Rafly+Maulidan;Seorang+Mahasiswa+Informatika;Si+Wibu+ambivert;">
   </a>
 </p>
 
