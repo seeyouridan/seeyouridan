@@ -34,7 +34,7 @@
 
 #
 
-<div class="flex">
+<div class="flex" style="align: center;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHIzbmR1cm5vdWJrdnF4cTgxOTM2bmltcDByc29uNWtxbzVkbXEwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PlZ0lAppucv6TiIqF6/giphy.gif" height="80px">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhnN2d1ZGljMjBwc25qd3Zkc2x0b2hwbzF3NWVsdnE4bDBoejh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7SI4TglY5NfdBLqVwX/giphy.gif" height="80px">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZuaHFxbXQ1bjZnbmdyd2d4a3N0bDNqc3JyZDZrdzVmNmxwdHJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5aqaI5R4fE7rBtbBQ5/giphy.gif" height="75px">
