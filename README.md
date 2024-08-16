@@ -19,13 +19,13 @@
 # 
 ### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=25px></picture> About Me
 
-> 🌏 Just an NPC from earth 616
+> 🌏 Just an NPC from earth 120703 🌌
  > 
-> 🎓 Informatics Engineering Student at Suryakancana University
+> 🎓 Informatics Engineering Student at Suryakancana University 👨‍💻
  >
-> 💻 Coding, Gaming, Eat, Sleep, Repeat
+> 💻 Coding, Gaming, Eat, Sleep, Repeat ♻️
  > 
-> ⚡ Fun fact : Glasses Girl is the best!
+> ⚡ Fun fact : Glasses Girl is the best! 🔥
 
 #
 
