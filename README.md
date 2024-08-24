@@ -23,7 +23,7 @@
  > 
 > 🎓 Informatics Engineering Student at Suryakancana University 👨‍💻
  >
-> 💻 Coding, Gaming, Eat, Sleep, Repeat ♻️
+> 💻 Coding, Gaming, Eat, Sleep, Repeat ♻
  > 
 > ⚡ Fun fact : Glasses Girl is the best! 🔥
 
@@ -35,8 +35,8 @@
 
 ### <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgyZWY2ZDg4dzd3OHZlcGllb3Fzb2c3YjJoYTE3cjIwcGE4Y2NmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0DbpeTlVnwIkfGbV8o/giphy.gif" width=25px></picture> Just editing
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 #
 
 <div class="flex">
@@ -58,6 +58,9 @@
 
 <div align="center">
   <a href="https://discordapp.com/channels/977557893308088390/977825595775934474/986211529546407957">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199139750659/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
 </div>
